@@ -8,8 +8,7 @@ Para mim foi um desafio, já que nunca havia programado nada. 🚀
 - JS
 
 ## Coisas que aprendi
-- Montar uma página HTML, tendo que ficar atenta a o que ficaria no topo, o que teria destaque,
-- como colocar imagens e links para outras páginas.
+- Montar uma página HTML, tendo que ficar atenta ao o que ficaria no topo, o que teria destaque, como colocar imagens e links para outras páginas.
 - Com o CSS aprendi como deixar minhas páginas mais bonitas, mais expressivas.
 - E com JS aprendi a deixar meu contúdo mais dinâmico.
 
